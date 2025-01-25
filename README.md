@@ -1,5 +1,5 @@
 # projekt-pzi
 
-## Knjižnica
-Projekt s nastave na kolegiju Programiranje za internet.  
-Obuhvaća pregled, unos, brisanje i izmjenu knjiga.
+## Unos gume i rezervacije gume te njihov prikat u bazi podataka.
+Projekt s kolegija Programiranje za internet.  
+Obuhvaća pregled, unos guma, unos rezervacije guma.
